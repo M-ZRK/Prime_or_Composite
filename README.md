@@ -5,7 +5,10 @@
 cd (file address)
 for example:
 cd ~/desktop/python_projects
-:سپس این کد را بزنید
+```
+<p align=right dir=rt>:سپس این کد را بزنید</p>
+
+```
 python3 (file's name)
 for example:
 python3 main.py
