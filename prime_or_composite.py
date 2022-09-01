@@ -1,5 +1,5 @@
 from readchar import readkey
-print('Bakhsh Paziri')
+print('Prime or Composite?')
 
 wrong = True
 
