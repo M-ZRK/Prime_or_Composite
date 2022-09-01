@@ -56,7 +56,7 @@ def write_children():
                     break
                 if edame == 'no' or edame == 'n':
                     print('Finish!')
-                    print('Programmed by M_ZRK\nPlease any key press to exit ...')
+                    print('Programmed by M_ZRK\nPlease press any key to exit ...')
                     readkey()
                     break
                 else:
