@@ -1,3 +1,4 @@
+from readchar import readkey
 print('Bakhsh Paziri')
 
 wrong = True
@@ -55,7 +56,8 @@ def write_children():
                     break
                 if edame == 'no' or edame == 'n':
                     print('Finish!')
-                    print('Programmed by M_ZRK')
+                    print('Programmed by M_ZRK\nPlease any key press to exit ...')
+                    readkey()
                     break
                 else:
                     print('your answer is not valid!')
